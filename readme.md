@@ -1,4 +1,4 @@
-Automatic Speed-up videos on Webinar and ODTUCLASS videos.
+Automatic Speed-up videos on Webinar and ODTUCLASS.
 
 Inspecting website and using console is an option but it's boring :) . 
 And you have to speed up the lecture.
