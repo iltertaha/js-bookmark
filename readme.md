@@ -3,7 +3,7 @@
 Inspecting website and using console is an option but it's boring :) . 
 And you have to speed up the lecture.
 
-If you want to speed up the video:
+
 
 
 ### How to use?
