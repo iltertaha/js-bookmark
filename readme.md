@@ -1,4 +1,4 @@
-## Automatic Speed-up videos on ODTUCLASS BB COLLAB.
+## Speed Control for videos on ODTUCLASS BB COLLAB.
 
 Inspecting website and using console is an option but it's boring :) . 
 And you have to speed up the lecture.
