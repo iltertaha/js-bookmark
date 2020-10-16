@@ -8,9 +8,6 @@ If you want to speed up the video:
 
 ### How to use?
 
-In the page add the link to your bookmark. 
-
-While watching BB COLLAB recordings, click the bookmarklet. After clicking at the bottom of the video, buttons will appear to adjust speed.
 
 * Go to [this page.](http://iltertaha.com/bookmarklet/speedup.html "Simple bookmarklet :) ")
 * Add link to your bookmarks by dragging and dropping.
