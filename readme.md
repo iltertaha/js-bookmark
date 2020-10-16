@@ -13,7 +13,7 @@ And you have to speed up the lecture.
 * Add link to your bookmarks by dragging and dropping.
 ![preview1](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/preview.png?raw=true)
 
-* While watching ODTUCLASS recordings, click on the bookmarklet.
+* Each time when you are watching ODTUCLASS recordings, click on the bookmarklet only once.
 * Speed options will appear above the start and stop buttons in the player.
 ![preview2](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/buttons.png?raw=true)
 
