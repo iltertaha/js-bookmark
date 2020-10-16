@@ -14,7 +14,9 @@ While watching BB COLLAB recordings, click the bookmarklet. After clicking at th
 
 * Go to [this page.](http://iltertaha.com/bookmarklet/speedup.html "Simple bookmarklet :) ")
 * Add link to your bookmarks by dragging and dropping.
-![alt text](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/preview.png?raw=true)
+![preview1](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/preview.png?raw=true)
 
 * While watching ODTUCLASS recordings, click on the bookmarklet.
 * Speed options will appear above the start and stop buttons in the player.
+![preview2](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/buttons.png?raw=true)
+
