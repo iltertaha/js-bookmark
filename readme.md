@@ -20,3 +20,5 @@ While watching BB COLLAB recordings, click the bookmarklet. After clicking at th
 * Speed options will appear above the start and stop buttons in the player.
 ![preview2](https://raw.githubusercontent.com/iltertaha/js-bookmark/master/buttons.png?raw=true)
 
+
+Note: JS code in the link can be found in this repo.
